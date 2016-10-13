@@ -16,6 +16,7 @@ public class PruebaDC {
      */
     public static void main(String[] args) {
   
+            String GOOROOLO;
     }
     
 }
